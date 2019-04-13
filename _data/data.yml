@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: c18krou@ionio.gr
     phone: 6942289967
-    website: blog.webjeda.com #do not add http://
+    website:  #do not add http://
     linkedin: 
     github: 
     gitlab:
@@ -25,11 +25,11 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Greek
         level: Native
 
-      - idiom: 
-        level: 
+      - idiom: English
+        level: Lower
         
 
       - idiom: 
@@ -59,8 +59,7 @@ education:
       details: |
         
 
-          - Bullet point
-          - Bullet point
+          
 
     - degree: 
       university: 
@@ -68,8 +67,7 @@ education:
       details: |
         
 
-          - Bullet point
-          - Bullet point
+          
 
 experiences:
     - role: 
